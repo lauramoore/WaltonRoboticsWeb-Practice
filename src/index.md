@@ -14,5 +14,5 @@
 
 ## This Site Built Using
 
-- [Markdown]([https://www.w3schools.com/Html/](https://www.markdownguide.org/)
+- [Markdown](https://www.w3schools.com/Html/](https://www.markdownguide.org/)
 - [Jekyll](https://jekyllrb.com/)
