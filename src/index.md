@@ -14,5 +14,5 @@
 
 ## This Site Built Using
 
-- [Plain Old HTML](https://www.w3schools.com/Html/)
-- [Bootstrap CSS](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Markdown]([https://www.w3schools.com/Html/](https://www.markdownguide.org/)
+- [Jekyll](https://jekyllrb.com/)
