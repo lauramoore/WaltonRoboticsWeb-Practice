@@ -1,0 +1,17 @@
+# GitHub Pages Remote Theme Config
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: kitian616/jekyll-TeXt-theme
+
+# TeXt Theme Settings
+text_skin: dark
+highlight_theme: tomorrow-night
+
+# Site Details
+title: Dwilsy's Page
+description: WRT4LYFE
+author: Dom
+baseurl: "/skills-github-pages"
+
+mathjax: trueokay gim
